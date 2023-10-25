@@ -1,0 +1,3 @@
+_id,name,teacher,lesson[0],lesson[1],salary,the_ngan_hang.seri,the_ngan_hang.bank
+653938a87b91a4f7607a1fc7,MongoDB class,Huy Nguyen,,,,,
+65393d217b91a4f7607a1fce,Mongo,653902efe4273872e140bdbe,lesson1,lesson2,2000,123123,Tp Bank
